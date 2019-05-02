@@ -48,6 +48,12 @@ contributions:
       name: "Sujan Dutta"
       url: "https://github.com/Suji04"
     url: "https://suji04.github.io/fractal-ferns/"
+  - title: "Deterministic Recursive Barnsley Fern"
+    author:
+      name: "Grant Moyer"
+      url: "https://github.com/GrantMoyer"
+    url: "https://grantmoyer.github.io/deterministic-barnsley-fern/"
+    source: "https://github.com/GrantMoyer/deterministic-barnsley-fern/"
 ---
 
 In this coding challenge, I visualize the Barnsley Fern fractal with Processing (Java).
